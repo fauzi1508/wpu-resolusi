@@ -2,5 +2,7 @@ RENCANA KONTEN WPU
 
 Menguasai 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Frameworks
 - Andorid
